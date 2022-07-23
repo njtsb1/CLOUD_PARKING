@@ -19,4 +19,3 @@ docker stop parking-db
 docker start parking-db
 
 [LICENSE](./LICENSE)
-# CLOUD_PARKING
